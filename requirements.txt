@@ -1,3 +1,2 @@
 ollama
 langchain
-ollama pull mistral
